@@ -3,7 +3,7 @@
 /* 
 /*
 */
-$fornavn=$_POST["fornavn"]:
+$fornavn=$_POST["fornavn"];
 print("hei $fornavn");  
 ?>
 
