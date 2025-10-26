@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background: #f5f7fa;
+}
+h1, h2 { color: #003366; }
+table { border-collapse: collapse; margin-top: 15px; width: 70%; }
+th, td { border: 1px solid #ccc; padding: 8px; }
+a { color: darkblue; text-decoration: none; }
+a:hover { text-decoration: underline; }
+form { margin-bottom: 20px; }
+button { padding: 6px 12px; margin-top: 8px; }
