@@ -1,8 +1,8 @@
 <?php
 $host = "localhost";
-$user = "root"; // standardbruker i XAMPP
-$pass = "";     // tomt passord som standard
-$db = "ahabd4711"; // navnet på databasen du lagde
+$user = "root"; // 
+$pass = "";     // 
+$db = "ahabd4711"; // 
 
 $conn = new mysqli($host, $user, $pass, $db);
 
